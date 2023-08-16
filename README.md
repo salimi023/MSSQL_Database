@@ -18,7 +18,7 @@ The content of the repository is as follows:
 
 ## DATABASE ACTIONS
 
-1. Function (function.sql)
+1. Function using joins and subquery (function.sql)
 2. Indexing with non-clustered indexes for better performance (non_clustered_indexes.sql)
 3. Stored procedures (stored_procedures.sql)
 
