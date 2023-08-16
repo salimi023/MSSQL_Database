@@ -1,6 +1,6 @@
 # MSSQL DEMO DATABASE
 
-The main goal of the database to demonstrate SQL coding and database administration skills by a basic demo MSSQL database.
+The main goal of the database is to demonstrate SQL coding and database administration skills by a basic demo MSSQL database.
 
 The content of the repository is as follows:
 
